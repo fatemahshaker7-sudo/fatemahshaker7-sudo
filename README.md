@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Fatemah 👋
 
-<!--
-**fatemahshaker7-sudo/fatemahshaker7-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist who loves turning messy data into clear answers**
 
-Here are some ideas to get you started:
+I use Python and predictive modeling to solve real-world industrial problems, and I like building small tools that make everyday life a bit easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Playing with:** Python · Pandas · NumPy · Altair · Streamlit · C++
+🚀 **Try this:** [Habit Tracking App](https://habbit-tracking-app.streamlit.app)
+
+🌐 **Portfolio:** [Fatemah Shaker | Data Scientist](https://fatemahshaker7-sudo.github.io/)
+💼 **LinkedIn:** [fatemah-shaker7](https://www.linkedin.com/in/fatemah-shaker7)
+📫 **Say hi:** fatemahshaker7@gmail.com
+
