@@ -7,6 +7,7 @@ I use Python and predictive modeling to solve real-world industrial and business
 🛠️ **Playing with:** Python · Pandas · NumPy · Scikit-learn · XGBoost · Altair · Streamlit · C++
 
 🔭 **Featured projects**
+- 🍳 [Bahraini Food Detector App](https://bahrainifoodobjectdetector.streamlit.app/): a Bahraini computer vision app that detects Bahraini food with 92% precision.
 - 📦 [Olist Delivery Estimator](https://olist-delivery-estimation-app.streamlit.app): a Stacking ensemble that predicts delivery time at checkout with a 3.45-day MAE.
 - 🔥 [Habit Tracking App](https://habbit-tracking-app.streamlit.app): track daily habits with streaks and a GitHub-style heatmap calendar
 
