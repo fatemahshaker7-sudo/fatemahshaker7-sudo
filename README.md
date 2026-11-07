@@ -1,4 +1,4 @@
-# Hey, I'm Fatemah 👋
+# Hey, I'm Fatemah 👋🏻
 
 **Process Instrumentation & Control Engineer turned Data Scientist, turning messy data into clear answers**
 
