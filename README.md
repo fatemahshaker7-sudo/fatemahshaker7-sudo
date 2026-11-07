@@ -14,3 +14,6 @@ I use Python and predictive modeling to solve real-world industrial and business
 🌐**Portfolio:** [Fatemah Shaker | PICENG & DS](https://fatemahshaker7-sudo.github.io/) 
 💼**LinkedIn:** [fatemah-shaker7](https://www.linkedin.com/in/fatemah-shaker7) 
 📫**Say hi:** fatemahshaker7@gmail.com
+
+| 🌐 **Portfolio:** [Fatemah Shaker \| PICENG & DS](https://fatemahshaker7-sudo.github.io/) | 💼 **LinkedIn:** [fatemah-shaker7](https://www.linkedin.com/in/fatemah-shaker7) | 📫 **Say hi:** [fatemahshaker7@gmail.com](mailto:fatemahshaker7@gmail.com) |
+|:---:|:---:|:---:|
