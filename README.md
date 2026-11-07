@@ -11,6 +11,6 @@ I use Python and predictive modeling to solve real-world industrial and business
 - 📦 [Olist Delivery Estimator](https://olist-delivery-estimation-app.streamlit.app): a Stacking ensemble that predicts delivery time at checkout with a 3.45-day MAE.
 - 🔥 [Habit Tracking App](https://habbit-tracking-app.streamlit.app): track daily habits with streaks and a GitHub-style heatmap calendar
 
-🌐**Portfolio:** [Fatemah Shaker | PICENG & DS](https://fatemahshaker7-sudo.github.io/)  
-💼**LinkedIn:** [fatemah-shaker7](https://www.linkedin.com/in/fatemah-shaker7)  
+🌐**Portfolio:** [Fatemah Shaker | PICENG & DS](https://fatemahshaker7-sudo.github.io/) 
+💼**LinkedIn:** [fatemah-shaker7](https://www.linkedin.com/in/fatemah-shaker7) 
 📫**Say hi:** fatemahshaker7@gmail.com
