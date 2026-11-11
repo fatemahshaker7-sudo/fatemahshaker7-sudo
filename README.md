@@ -13,6 +13,6 @@ I use Python and predictive modeling to solve real-world industrial and business
 
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fatemahshaker7--sudo.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatemahshaker7-sudo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemah%20Shaker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemah-shaker7)
 [![Gmail](https://img.shields.io/badge/Gmail-fatemahshaker7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatemahshaker7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fatemahshaker7--sudo.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatemahshaker7-sudo.github.io/)
