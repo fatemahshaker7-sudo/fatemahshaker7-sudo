@@ -21,3 +21,6 @@ I use Python and predictive modeling to solve real-world industrial and business
 **To View my work**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fatemahshaker7--sudo.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://fatemahshaker7-sudo.github.io/)
+
+
+[![Gmail](https://img.shields.io/badge/fatemahshaker7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemahshaker7@gmail.com)
