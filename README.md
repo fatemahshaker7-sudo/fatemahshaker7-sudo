@@ -14,7 +14,7 @@ I use Python and predictive modeling to solve real-world industrial and business
 
 - [![OLIST_DATE_ESTIMATION](https://img.shields.io/badge/OLIST__DATE__ESTIMATION-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatemahshaker7-sudo/OLIST_DATE_ESTIMATION) [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://olist-delivery-estimation-app.streamlit.app) : 📦 a Stacking ensemble that predicts delivery time at checkout with a 3.45-day MAE.
 
-- 🔥 [Habit Tracking App](https://habbit-tracking-app.streamlit.app): track daily habits with streaks and a GitHub-style heatmap calendar
+- [![Habbit_Tracking_App](https://img.shields.io/badge/Habbit__Tracking__App-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatemahshaker7-sudo/Projects/tree/main/Habbit_Tracking_App) [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://habbit-tracking-app.streamlit.app) : 🔥 track daily habits with streaks and a GitHub-style heatmap calendar
 
 **For business and connections**
 
