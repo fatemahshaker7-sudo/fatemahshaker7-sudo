@@ -16,12 +16,12 @@ I use Python and predictive modeling to solve real-world industrial and business
 
 - [![Habbit_Tracking_App](https://img.shields.io/badge/Habbit__Tracking__App-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatemahshaker7-sudo/Projects/tree/main/Habbit_Tracking_App) [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://habbit-tracking-app.streamlit.app) : 🔥 track daily habits with streaks and a GitHub-style heatmap calendar
 
-**For business and connections**
+## For business and connections
 
 [![LinkedIn](https://img.shields.io/badge/fatemah--shaker7-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemah-shaker7)
 [![Gmail](https://img.shields.io/badge/fatemahshaker7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatemahshaker7@gmail.com)
 
-**Porfolio**
+## Porfolio
 
 [![Portfolio](https://img.shields.io/badge/fatemahshaker7--sudo.github.io-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://fatemahshaker7-sudo.github.io/)
 
