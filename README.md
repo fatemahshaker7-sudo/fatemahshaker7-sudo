@@ -10,10 +10,8 @@ I use Python and predictive modeling to solve real-world industrial and business
 
 🔭 **Featured projects**
 
-[![Bahraini_Food_Object_Detection](https://img.shields.io/badge/Bahraini__Food__Object__Detection-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatemahshaker7-sudo/Bahraini_Food_Object_Detection)
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://bahrainifoodobjectdetector.streamlit.app/)
+- [![Bahraini_Food_Object_Detection](https://img.shields.io/badge/Bahraini__Food__Object__Detection-181717?style=flat&logo=github&logoColor=white)](https://github.com/fatemahshaker7-sudo/Bahraini_Food_Object_Detection) [![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?logo=streamlit&logoColor=white)](https://bahrainifoodobjectdetector.streamlit.app/) : 🍳 a Bahraini computer vision app that detects Bahraini food with 92% precision.
 
-- 🍳 [Bahraini Food Detector App](https://bahrainifoodobjectdetector.streamlit.app/): a Bahraini computer vision app that detects Bahraini food with 92% precision.
 - 📦 [Olist Delivery Estimator](https://olist-delivery-estimation-app.streamlit.app): a Stacking ensemble that predicts delivery time at checkout with a 3.45-day MAE.
 - 🔥 [Habit Tracking App](https://habbit-tracking-app.streamlit.app): track daily habits with streaks and a GitHub-style heatmap calendar
 
